@@ -1,4 +1,4 @@
-#!/Users/david/Documents/Travail/MyDevs/allspark/allspark_portal/itsm/venv/bin/python3.7
+#!/Users/david/Documents/Travail/MyDevs/allspark/allspark_portal/itsm/venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
